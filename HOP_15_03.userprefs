@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/IPAdmobMediation/Scripts/GoogleMobileAdController.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/GameKeys.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PlayerJump.cs" Line="154" Column="1" />
+      <File FileName="Assets/_Scripts/GameController.cs" Line="332" Column="56" />
+      <File FileName="Assets/MarvelousTechniques/Shaders/CustomLightingRS.shader" Line="13" Column="13" />
+      <File FileName="Assets/IPScrollView/IPScrollView.cs" Line="18" Column="2" />
+      <File FileName="Assets/_Scripts/PlayerSelectionController.cs" Line="39" Column="44" />
+      <File FileName="Assets/IPAdmobMediation/Scripts/GoogleMobileAdController.cs" Line="276" Column="74" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
